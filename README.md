@@ -1,8 +1,8 @@
-# Checkout the Website : <strong><em>[The Vegan Wave](https://asa2468.github.io/TheVeganWave/)</em></strong>
+## Checkout the Website : <strong><em>[The Vegan Wave](https://asa2468.github.io/TheVeganWave/)</em></strong>
 <br>
-<h2><strong>My first-step to learning Web Development.</strong></h2>
+<h3><strong>My first-step to learning Web Development.</strong></h3>
 <br>
-<h3>Overview</h3>
+<h4>Overview</h4>
 The Vegan Wave is a lightweight front-end website that aims to create awareness and promote veganism. This project can be considered as a starting point for those who want to build simple, informative websites to support the vegan community.
 <br>
 <h3>Features</h3>
@@ -13,7 +13,7 @@ The Vegan Wave is a lightweight front-end website that aims to create awareness 
   <li>Contact: Allows users to get in touch with the project organizers.</li>
 </ul>
 <br>
-<h3>Getting Started</h3>
+<h4>Getting Started</h4>
 To view TheVeganWave website locally, follow these steps:
 <br>
 <ol>
@@ -21,14 +21,14 @@ To view TheVeganWave website locally, follow these steps:
   <li>Open the index.html file in your preferred web browser.</li>
 </ol>
 <br>
-<h3>Project Structure</h3>
+<h4>Project Structure</h4>
 <ul>
   <li><em>index.html:</em> The main HTML file containing the structure of the website.</li>
   <li><em>styles/:</em> Directory containing CSS files for styling the website.</li>
   <li><em>images/:</em> Folder to store images used in the website.</li>
 </ul>
 <br>
-<h3>Customization<strong><em> - Please do so locally</em></strong></h3>
+<h4>Customization<strong><em> - Please do so locally</em></strong></h4>
 Feel free to customize the website according to your preferences:
 
 <ul>
@@ -38,4 +38,4 @@ Feel free to customize the website according to your preferences:
 </ul>
 
 <br>
-<h2>Thank You</h2>
+<h3>Thank You</h3>
