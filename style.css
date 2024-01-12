@@ -1,0 +1,495 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://edyoda.s3.ap-south-1.amazonaws.com/public/landing-background.png");
+    background-color: #cccccc;
+  }
+#logo-icon {
+    width: 40px;
+    height:40px;
+    padding: 18px 28px 17px 28px;
+}
+nav {
+    display: flex;
+    background-color: white;
+    margin-top: 0%;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    position: sticky;
+    top: 0px;
+}
+#left-menu {
+    display: flex;
+    align-items: center;
+}
+#website-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(77, 68, 20);
+}
+#right-menu {
+    display: flex;
+    align-items: center;
+}
+#watch-video {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    text-decoration: none;
+    padding: 16px;
+}
+#buy-now {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(170, 210, 54);
+    padding: 9px 40px;
+    border: 0;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 50px;
+    cursor: pointer;
+    border-radius:  4px;
+}
+#buy-btn {
+    text-align: center;
+    vertical-align:middle;
+}
+.dropdown {
+    float: left;
+    overflow: hidden; 
+    
+}
+.dropdown .menu-item {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    padding: 16px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+.dropdown-content a {
+    float: none;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: white;
+    color: rgb(98, 73, 73);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-style: italic;
+}
+.dropdown-content a:hover {
+    background-color: lightgray;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+    position: sticky;
+    top: 0px;
+}
+#intro {
+    padding: 250px 160px;
+    text-align: center;
+}
+#intro h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #a4a4b9;
+    font-style: italic;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    color: #131336;
+}
+#first-step {
+    background-color: #5acda6;
+}
+#second-step {
+    background-color: #91ac41;
+}
+#third-step {
+    background-color: #e4b476;
+}
+#fourth-step {
+    background-color: #f69dad;
+}
+#steps-section {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+}
+.step-item {
+    width:25%;
+    padding: 112px 48px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.step-item i {
+    font-size: 96px;
+    color: white;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+}
+.step-item i:hover {
+    font-size: 103px;
+    color: white;
+
+}
+.step-item h3 {
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+}
+.step-item p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-top: 0;
+    color: white;
+    letter-spacing: 0.5px;
+}
+#store-section {
+    width: 100%;
+    background-color: #f7eee2;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+}
+#fresh-food-heading {
+    color: #91ac41;
+    font-size: 24px;
+    font-family: 'Caveat', cursive;
+    margin: 0;
+    margin-top: 35px;
+}
+#store-desc {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    color: #8b8b99;
+    letter-spacing: 0.5px;
+    margin-bottom: 55px;
+}
+#store-items-wrapper {
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    justify-content: stretch;
+    margin: 0 auto;
+}
+.store-item {
+    width: 25%;
+    text-align: center;
+    padding: 24px;
+}
+.icon-wrapper {
+    font-size: 60px;
+    display: inline-block;
+    background-color: #a07a49;
+    border-radius: 50%;
+    padding: 40px;
+    color: white;
+    transition: all 0.3s;
+}
+.icon-wrapper:hover {
+    font-size: 80px;
+}
+.store-item h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.store-item p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    color: #8b8b99;
+}
+#testimonial-section {
+    width: 100%;
+    background-color: white;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+}
+#testimonial-wrapper {
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    justify-content: stretch;
+    margin: 0 auto;
+}
+.testimonial-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+#testimonial-section-heading {
+    color: #91ac41;
+    font-size: 24px;
+    font-family: 'Caveat', cursive;
+    margin: 0;
+    margin-top: 35px;
+}
+#testimonial-desc {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+    color: #8b8b99;
+    letter-spacing: 0.5px;
+    margin-bottom: 55px;
+    text-align: center;
+}
+.testimonial-item {
+    background-color: rgb(245, 245, 245);
+    margin: 20px 20px;
+    padding: 40px;
+    width: 400px;
+    height: 420px;
+    box-sizing: border-box;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    transition: box-shadow 0.3s;
+    
+}
+.testimonial-item:hover {
+    box-shadow: 0 29px 29px -29px rgba(0, 0, 0, 0.1);
+}
+.testimonial-message {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(161, 158, 158);
+}
+.testimonial-by {
+    word-spacing: 4px;
+}
+.job-role {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(126, 123, 123);
+}
+footer {
+    width:100%;
+    height: 60px;
+    background-color: #080836;
+    font-size: 13px;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.5px;
+    box-sizing: border-box;
+}
+#follow-section {
+    display: flex;
+    box-sizing: border-box;
+    margin-bottom: 0%;
+}
+#left-section {
+    display: inline-block;
+}
+#left-sec-img {
+    width: 100%;
+}
+#right-section {
+    text-align: center;
+    margin-top: 170px;
+    margin-bottom: 0;
+    /* width:33.33%; */
+    margin: 0;
+    display: inline-block;
+    background-image: url(https://edyoda.s3.ap-south-1.amazonaws.com/public/strawberry-white.png);
+    background-position: left;
+    background-size: cover;
+    display: inline-block;
+}
+#right-section h3 {
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+#right-section p {
+    padding: 10px 40px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(181, 179, 179);
+    font-family: 'Poppins', sans-serif;
+}
+.input-box {
+    width:80%;
+    box-sizing: border-box;
+    border:0;
+    border-radius: 4px;
+    font-weight: 500;
+    background-color: white;
+    padding: 12px;
+    color: #8b8b99;
+    font-size: 16px;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 30px;
+    display: block;
+}
+#btn-subscribe {
+    width:140px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: #99680b;
+    color: white;
+    border: 0;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+#stats-section {
+    width: 100%;
+    background-color: rgb(230, 227, 227);
+}
+#stats-wrapper {
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    text-align: center;
+    justify-content: stretch;
+    margin: 0 auto;
+    height:300px;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.stats {
+    width: 25%;
+    padding: 0 64px;
+}
+.stats h3 {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: 31715c;
+}
+.stats p {
+    color: rgb(80, 69, 11);
+    font-style: italic;
+    font-family: 'Cormorant Garamond', serif;
+}
+#video-section {
+    width: 100%;
+    background-color: white;
+    height: 700px; 
+} 
+
+#video-section h2 {
+    color: #8b8b99;
+    font-size: 44px;
+    font-weight: 400;
+    padding-top: 30px;
+    margin-top: 0;
+}
+
+#video-section > div {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#line-separator {
+    width: 96px;
+    display: inline-block;
+    height: 1px;
+    background-color: #e4b476;
+    margin-bottom: 36px;
+}
+
+#video-section iframe {
+    width: 100%;
+    height: 425px;
+    padding-bottom: 30px;
+    border: none;
+}
+#contact-wrapper {
+    display:flex;
+    background-color: white;
+    text-align: left;
+    padding: 0 60px;
+}
+#contact-wrapper > div {
+    padding: 40px;
+}
+#contact-wrapper h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    color: rgb(165, 162, 162);
+    padding: 20px auto;
+}
+#contact-wrapper h1 {
+    font-size: 45px;
+    padding: 20px auto;
+}
+#contact-wrapper p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #8b8b99;
+    letter-spacing: 0.5px;
+}
+#input-wrapper {
+    border-color: lightgrey;
+}
+form {
+    background-color: white;
+    width: 490px;
+    margin-left: 0;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+}
+.input-box {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: lightgrey;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 90%;
+    height: 60px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#btn-submit {
+    background-color: rgb(99, 150, 167);
+    width: 200px;
+    height: 40px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    cursor: grab;
+}
