@@ -1,41 +1,47 @@
 ## Checkout the Website : <strong><em>[The Vegan Wave](https://asa2468.github.io/TheVeganWave/)</em></strong>
 <br>
-<h3><strong>My first-step to learning Web Development.</strong></h3>
-<br>
-<h4>Overview</h4>
+
+## Overview
+
 The Vegan Wave is a lightweight front-end website that aims to create awareness and promote veganism. This project can be considered as a starting point for those who want to build simple, informative websites to support the vegan community.
+
 <br>
-<h3>Features</h3>
-<ul>
-  <li>Home Page: A welcoming landing page introducing users to The Vegan Wave.</li>
-  <li>Recipe Section: Showcases delicious vegan recipes with images and instructions.</li>
-  <li>About Us: Provides information about the project, its goals, and the team behind it.</li>
-  <li>Contact: Allows users to get in touch with the project organizers.</li>
-</ul>
+
+## Features
+
+- **Home Page:** A welcoming landing page introducing users to The Vegan Wave.
+- **Recipe Section:** Showcases delicious vegan recipes with images and instructions.
+- **About Us:** Provides information about the project, its goals, and the team behind it.
+- **Contact:** Allows users to get in touch with the project organizers.
+
 <br>
-<h4>Getting Started</h4>
+
+## Getting Started
+
 To view TheVeganWave website locally, follow these steps:
-<br>
-<ol>
-  <li>Clone the repository: git clone https://github.com/Asa2468/TheVeganWave.git</li>
-  <li>Open the index.html file in your preferred web browser.</li>
-</ol>
-<br>
-<h4>Project Structure</h4>
-<ul>
-  <li><em>index.html:</em> The main HTML file containing the structure of the website.</li>
-  <li><em>styles/:</em> Directory containing CSS files for styling the website.</li>
-  <li><em>images/:</em> Folder to store images used in the website.</li>
-</ul>
-<br>
-<h4>Customization<strong><em> - Please do so locally</em></strong></h4>
-Feel free to customize the website according to your preferences:
 
-<ul>
-  <li>Modify the content in index.html to reflect the project's information.</li>
-  <li>Update styles in the styles/ directory to match the design choices.</li>
-  <li>Replace placeholder images in the images/ folder with your own.</li>
-</ul>
+1. Clone the repository: `git clone https://github.com/Asa2468/TheVeganWave.git`
+2. Open the `index.html` file in your preferred web browser.
+3. Interact with the various features.
+<br>
+
+## Project Structure
+
+- `index.html:` The main HTML file containing the structure of the The Vegan Wave application.
+- `styles/:` Directory containing CSS files for styling the application.
+- `images/:` Folder to store images used in the website.
+<br>
+
+## Customization - Please do so locally
+
+Feel free to customize DrumStruck according to your preferences:
+
+- Modify the content in `index.html` to enhance or personalize the user interface.
+- Update styles in the `styles/` directory to match any design choices you prefer.
+- Replace drum sounds in the `images/` folder with your own image files if desired.
+<br>
+
+
+## Thank You
 
 <br>
-<h3>Thank You</h3>
