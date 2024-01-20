@@ -9,10 +9,12 @@ The Vegan Wave is a lightweight front-end website that aims to create awareness 
 
 ## Features
 
-- **Home Page:** A welcoming landing page introducing users to The Vegan Wave.
-- **Recipe Section:** Showcases delicious vegan recipes with images and instructions.
-- **About Us:** Provides information about the project, its goals, and the team behind it.
-- **Contact:** Allows users to get in touch with the project organizers.
+- **<em>Responsive Design:</em>** Enjoy the website in your laptop, tablet or phone.
+- **<em>Home Page:</em>** A welcoming landing page introducing users to The Vegan Wave.
+- **<em>Recipe Section:</em>** Showcases delicious vegan recipe with instructions.
+- **<em>About Us:</em>** Shows the various hallmarks of our store.
+- **<em>Reviews:</em>** Reviews and an overall perspective.
+- **<em>Contact Us:</em>** Allows users to get in touch with the project organizers.
 
 <br>
 
@@ -32,7 +34,7 @@ To view TheVeganWave website locally, follow these steps:
 - `images/:` Folder to store images used in the website.
 <br>
 
-## Customization - Please do so locally
+## Customization
 
 Feel free to customize DrumStruck according to your preferences:
 
@@ -42,6 +44,6 @@ Feel free to customize DrumStruck according to your preferences:
 <br>
 
 
-## Thank You
+#  <em>Thank You</em>
 
 <br>
