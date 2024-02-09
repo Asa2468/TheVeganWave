@@ -85,6 +85,7 @@ nav {
 }
 .dropdown a:hover {
     background-color: lightgray;
+    border-radius: 10px;
 }
 .dropdown a:last-of-type {
     border: 0;
