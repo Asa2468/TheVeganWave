@@ -3,8 +3,7 @@
 
 ## Overview
 
-The Vegan Wave is a lightweight front-end website that aims to create awareness and promote veganism. This project can be considered as a starting point for those who want to build simple, informative websites to support the vegan community.
-
+The Vegan Wave is a lightweight front-end website that aims to promote veganism and the future of conscious shopping! This project aims to create a visually stunning and user-friendly website for a Vegan Store, catering to individuals passionate about veganism, sustainability, and ethical consumption. It strives to craft an online platform that not only showcases a diverse range of vegan products but also fosters a sense of community and awareness around vegan lifestyle choices.
 <br>
 
 <details>
@@ -59,12 +58,20 @@ The Vegan Wave is a lightweight front-end website that aims to create awareness 
 
 ## Features
 
-- **<em>Responsive Design:</em>** Enjoy the website in your laptop, tablet or phone.
+- **<em>Lightweight and Responsive:</em>** The Vegan Wave is optimized for responsiveness, ensuring a seamless browsing experience across devices.
+- **<em>Minimalist Design:</em>** Embracing simplicity, the design focuses on clear communication and user engagement, avoiding distractions.
+- **<em>Color Palette:</em>** Nature-inspired hues evoke feelings of freshness and ethical consciousness.
 - **<em>Home Page:</em>** A welcoming landing page introducing users to The Vegan Wave.
 - **<em>Recipe Section:</em>** Showcases delicious vegan recipe with instructions.
-- **<em>About Us:</em>** Shows the various hallmarks of our store.
-- **<em>Reviews:</em>** Reviews and an overall perspective.
-- **<em>Contact Us:</em>** Allows users to get in touch with the project organizers.
+- **<em>Benefits:</em>** Shows the various hallmarks of the store.
+- **<em>Testimonials:</em>** Reviews and an overall perspective.
+- **<em>Newsletter Subscription:</em>** Email for exclusive newsletter subscription.
+- **<em>Contact Us:</em>** Allows users to get in touch with the store organizers.
+
+<br>
+
+## Technology Used
+#### This project  is built with [HTML](https://html.com/) and [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
 
 <br>
 
