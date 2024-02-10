@@ -1,4 +1,4 @@
-## Checkout the Website : <strong><em>[The Vegan Wave](https://asa2468.github.io/TheVeganWave/)</em></strong>
+## See Live Demo : <strong><em>[The Vegan Wave](https://asa2468.github.io/TheVeganWave/)</em></strong>
 <br>
 
 ## Overview
