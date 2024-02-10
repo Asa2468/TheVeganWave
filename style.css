@@ -491,39 +491,6 @@ nav {
 /* STATS SECTION STYLES END */
 
 
-
-
-/* VIDEO SECTION STYLES START */
-#video-section h3 {
-    color: #8b8b99;
-    font-size: 44px;
-    font-weight: 400;
-}
-
-#video-section > div {
-    width: 100%;
-    max-width: 1140px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-#line-separator {
-    width: 96px;
-    display: inline-block;
-    height: 1px;
-    background-color: #e4b476;
-    margin-bottom: 36px;
-}
-
-#video-section iframe {
-    width: 100%;
-    height: 425px;
-}
-
-/* VIDEO SECTION STYLES END */
-
-
-
 /* ADDRESS SECTION STYLES START */
 #address-wrapper {
     width: 100%;
