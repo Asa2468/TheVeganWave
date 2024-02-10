@@ -7,6 +7,56 @@ The Vegan Wave is a lightweight front-end website that aims to create awareness 
 
 <br>
 
+<details>
+  <summary><h2>Screenshots</h2></summary>
+
+<br>
+
+### <em>Summary</em>
+<br>
+
+  ![Screenshot 1](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_1.png)
+  
+  <br>
+
+  ### <em>Recipe Section</em>
+  <br>
+  
+  ![Screenshot 2](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_2.png)
+    
+  <br>
+
+  ### <em>Benefits</em>
+  <br>
+  
+  ![Screenshot 3](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_3.png)
+    
+  <br>
+
+  ### <em>Testimonials</em>
+  <br>
+  
+  ![Screenshot_4](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_4.png)
+    
+  <br>
+
+  ### <em>Newsletter Subscription</em>
+  <br>
+  
+  ![Screenshot 5](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_5.png)
+    
+  <br>
+  
+  ### <em>Contact Us</em>
+  <br>
+  
+  ![Screenshot_6](https://github.com/Asa2468/TheVeganWave/blob/main/public/TheVeganWave_Homepage_6.png)
+    
+  <br>
+  
+
+</details>
+
 ## Features
 
 - **<em>Responsive Design:</em>** Enjoy the website in your laptop, tablet or phone.
