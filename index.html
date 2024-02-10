@@ -12,14 +12,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DvUc6nJ15t0E7Mv6R1MxJLbLJBWTfnpj1kF7XpOMvHcfc3Kvx2K++qLY7ti+i6zr" crossorigin="anonymous">
 </head>
-    <script>
-        window.addEventListener("beforeunload", (event) => {
-            // Your code logic here
-            t = true; // Assuming t is a variable you want to set to true
-            // Optionally, you can return a message to display in the confirmation dialog
-            event.returnValue = ''; // This is required for some browsers to show the confirmation dialog
-        });
-    </script>
 <body>
     <header>
         <nav>
@@ -50,9 +42,15 @@
             </div>
         </nav>
         <main>
-            <!-- Your main content sections go here -->
+           
         </main>
         <footer>&copy; Copyright 2024 The Vegan Wave - All Rights Reserved</footer>
     </header>
+    <script>
+        window.addEventListener("beforeunload", (event) => {
+            t = true; 
+            event.returnValue = ''; 
+        });
+    </script>
 </body>
 </html>
